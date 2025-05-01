@@ -38,7 +38,7 @@ export function Header() {
            <Link href="/" className="flex items-center space-x-2">
              <Code className="h-6 w-6 text-accent" />
              <span className="font-bold">
-                Your Name {/* Placeholder */}
+                Saket {/* Placeholder */}
              </span>
            </Link>
           <Sheet>

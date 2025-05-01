@@ -15,19 +15,19 @@ export function Footer() {
         </div>
         <div className="flex items-center gap-4">
           <Button variant="ghost" size="icon" asChild>
-            <Link href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer"> {/* Placeholder */}
+            <Link href="saketbsn@gmail.com" target="_blank" rel="noopener noreferrer"> {/* Placeholder */}
               <Mail className="h-5 w-5" />
               <span className="sr-only">Email</span>
             </Link>
           </Button>
           <Button variant="ghost" size="icon" asChild>
-            <Link href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer"> {/* Placeholder */}
+            <Link href="https://github.com/Saketbishnu" target="_blank" rel="noopener noreferrer"> {/* Placeholder */}
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </Link>
           </Button>
           <Button variant="ghost" size="icon" asChild>
-            <Link href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer"> {/* Placeholder */}
+            <Link href="https://www.linkedin.com/in/saket-bishnu-00769a269/" target="_blank" rel="noopener noreferrer"> {/* Placeholder */}
               <Linkedin className="h-5 w-5" />
               <span className="sr-only">LinkedIn</span>
             </Link>
