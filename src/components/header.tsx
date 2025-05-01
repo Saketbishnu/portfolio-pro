@@ -18,7 +18,7 @@ export function Header() {
           <Link href="/" className="mr-6 flex items-center space-x-2">
             <Code className="h-6 w-6 text-accent" />
             <span className="hidden font-bold sm:inline-block">
-              Your Name {/* Placeholder */}
+              saket Bishnu{/* Placeholder */}
             </span>
           </Link>
           <nav className="flex items-center gap-6 text-sm">
