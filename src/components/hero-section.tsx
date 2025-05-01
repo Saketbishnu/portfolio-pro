@@ -11,10 +11,10 @@ export function HeroSection() {
       <div className="container grid grid-cols-1 gap-12 py-24 md:grid-cols-2 md:py-32 lg:gap-20 items-center">
         <div className="space-y-4 text-center md:text-left fade-in">
           <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-            Your Name {/* Placeholder */}
+            Saket Bishnu {/* Placeholder */}
           </h1>
           <p className="text-lg text-muted-foreground md:text-xl">
-            Your Role / Title {/* Placeholder - e.g., Full Stack Developer | UI/UX Designer */}
+            Software Engineer {/* Placeholder - e.g., Full Stack Developer | UI/UX Designer */}
           </p>
           <p className="max-w-[600px] text-foreground/80 md:text-lg">
             A short and engaging bio about yourself, highlighting key skills or passions. Keep it concise and impactful. {/* Placeholder */}
